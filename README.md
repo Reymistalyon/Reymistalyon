@@ -1,6 +1,8 @@
-# Senan Azemmedov
+![Senan Azemmedov · 4th-year Computer Engineering student at UNEC · Web Security, Network Security, and AI Security](assets/banner.svg)
 
-I’m a fourth-year Computer Engineering student at UNEC with an interest in cybersecurity and web application security.
+## About me
+
+I’m Senan Azemmedov, a fourth-year Computer Engineering student at the Azerbaijan State University of Economics (UNEC). I’m interested in cybersecurity, especially web application security and penetration testing.
 
 ## Background
 
@@ -8,17 +10,19 @@ I previously trained in cybersecurity at MilliSec and practiced across 35+ CTF-s
 
 ## Current focus
 
-I’m strengthening my technical foundations through practical security projects, starting with a planned Python tool for comparing saved network inventory snapshots. My approach emphasizes testing, reproducibility, and clear reporting.
+I’m refreshing my technical foundations through practical security projects, with an emphasis on testing, reproducibility, and clear reporting. My first planned project is a Python CLI that compares saved network inventory snapshots from an authorized lab or synthetic fixtures.
 
 ## Technical interests
 
 - Web application security, penetration testing, and vulnerability assessment
 - Network security and Python security automation
-- Security reporting and AI-assisted cybersecurity
+- AI security, AI-assisted cybersecurity, and security reporting
 
 ## Technical foundations
 
-I’ve previously studied or practiced Python, Bash, Linux, networking, Nmap, Burp Suite, and HTTP.
+I’ve previously studied or practiced Python, Bash, Linux (including Kali Linux), Nmap, Burp Suite, and networking fundamentals such as HTTP.
+
+![Previously studied or practiced tools: Python, Bash, Linux, Kali Linux, Nmap, and Burp Suite](assets/foundations.svg)
 
 ## Professional links
 
