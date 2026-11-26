@@ -6,7 +6,16 @@ I’m Senan Azemmedov, a fourth-year Computer Engineering student at the Azerbai
 
 ## Background
 
-I previously trained in cybersecurity at MilliSec and practiced across 35+ CTF-style rooms on TryHackMe.
+I successfully completed MilliSec’s Red Team Training and previously practiced across 35+ CTF-style rooms on TryHackMe.
+
+## Certifications
+
+**Red Team Operator — MilliSec**
+
+Certificate of Achievement · Successfully completed Red Team Training · Silver Rank  
+Issued November 25, 2025 · [Verify credential with MilliSec](https://millisec.edu.az/certificates/6GZLXZM)
+
+Training topics included offensive security, Active Directory exploitation, lateral movement, privilege escalation, and web penetration testing.
 
 ## Current focus
 
