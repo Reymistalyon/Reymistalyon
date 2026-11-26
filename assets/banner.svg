@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Senan Azemmedov</title>
+  <desc id="desc">Fourth-year Computer Engineering student at UNEC. Web Security, Network Security, and AI Security. A charcoal banner with a dark purple and red dragon silhouette.</desc>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0a0a0e"/><stop offset=".61" stop-color="#111019"/><stop offset="1" stop-color="#17111d"/>
+    </linearGradient>
+    <radialGradient id="violet" cx=".87" cy=".46" r=".54">
+      <stop stop-color="#4c2465" stop-opacity=".58"/><stop offset="1" stop-color="#281336" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="red" cx=".92" cy="1.12" r=".52">
+      <stop stop-color="#681b2a" stop-opacity=".64"/><stop offset="1" stop-color="#3b1324" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="dragon" x1=".13" y1=".15" x2=".89" y2=".82">
+      <stop stop-color="#3d254b"/><stop offset=".55" stop-color="#6a365e"/><stop offset="1" stop-color="#8b394e"/>
+    </linearGradient>
+    <linearGradient id="beam">
+      <stop stop-color="#ac78c8"/><stop offset=".7" stop-color="#71384c"/><stop offset="1" stop-color="#532035" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0v30" fill="none" stroke="#a297ae" stroke-opacity=".105"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#base)"/>
+    <rect width="1200" height="360" fill="url(#violet)"/>
+    <rect width="1200" height="360" fill="url(#red)"/>
+    <path d="M750 0h450v360H624l82-108 37-75Z" fill="url(#grid)"/>
+    <path d="M660 360q194-29 316-108 116-74 224-107v215Z" fill="#462037" opacity=".23"/>
+    <path d="M659 360q191-34 315-111 121-78 226-107M828 360q185-32 372-126" fill="none" stroke="#c36b98" stroke-opacity=".28" stroke-width="1.4"/>
+    <path d="M60 0 0 64M108 0 0 111M1200 291l-75 69M1200 314l-49 46" fill="none" stroke="#a95272" stroke-opacity=".42" stroke-width="1.5"/>
+    <g fill="none" stroke="#b899ca" stroke-width="1.35" opacity=".35">
+      <path d="M718 91h55l50-32h91m116 222h57l37-41h40m-275 69h50l37-28h54M1128 63h33l39-33"/>
+      <circle cx="718" cy="91" r="4"/><circle cx="773" cy="91" r="4"/>
+      <circle cx="914" cy="59" r="4"/><circle cx="889" cy="309" r="4"/>
+      <circle cx="1087" cy="281" r="4"/><circle cx="1164" cy="240" r="4"/>
+      <circle cx="1128" cy="63" r="4"/>
+    </g>
+    <path d="M905 314c90-1 138-39 130-93-3-28-21-48-48-60-35-15-51-33-49-56 2-17 14-28 31-34-33 3-61 14-86 36 7-29 31-54 62-65-34-5-64-3-95 8 43-27 91-37 140-27 23 4 43 12 62 23-5-16-15-29-29-41 33 11 55 29 71 54l23 8 24 30-24-4-16-11-24 2-27-14c-26-11-53-9-72 4-18 12-21 31-10 45 9 12 29 22 48 32 44 23 64 59 61 94-6 59-64 96-157 97-20 0-36-2-47-5 10-2 23-5 32-7Z" fill="url(#dragon)" stroke="#a36691" stroke-opacity=".38" stroke-width="1.1"/>
+    <path d="M1025 55c36 0 60 15 82 33m-144 17c-9 26 9 39 34 52 39 20 65 49 63 84" fill="none" stroke="#c083ae" stroke-opacity=".28" stroke-width="1.7" stroke-linecap="round"/>
+    <path d="m1101 72 14 8-13-3Z" fill="#f2a0c4"/>
+    <path d="M65 91h53m-53 8h25" stroke="#b77bcc" stroke-linecap="round" stroke-width="2.5" opacity=".7"/>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="63" y="168" fill="#faf7fb" font-size="76" font-weight="700" letter-spacing="-2.6">Senan Azemmedov</text>
+      <text x="66" y="220" fill="#e3d9e8" font-size="36" font-weight="500">4th-Year Computer Engineering Student at UNEC</text>
+      <text x="67" y="277" fill="#d2aedf" font-size="30" font-weight="500">Web Security · Network Security · AI Security</text>
+    </g>
+    <path d="M67 242h638" stroke="url(#beam)" stroke-width="1.5"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="358.5" rx="21.25" fill="none" stroke="#88718f" stroke-opacity=".45" stroke-width="1.5"/>
+</svg>
